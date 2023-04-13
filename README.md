@@ -75,6 +75,13 @@ Image source: https://www.pexels.com/photo/grayscale-photography-of-a-beautiful-
 <img src="artwork/colored_vintage_photo.jpg" width=50% height=50%>
 
 
+## Virtual Reality Blend
+
+<img src="artwork/IMG_2525.jpg" width=30% height=30%>
+<img src="artwork/IMG_2525_minions.jpg" width=30% height=30%>
+
+
+
 
 # Support My Artwork
 
