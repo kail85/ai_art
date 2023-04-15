@@ -82,7 +82,9 @@ Image source: https://www.pexels.com/photo/grayscale-photography-of-a-beautiful-
 <br/><br/>
 <img src="artwork/quince_at_fence.jpg" width=30% height=30%>
 <img src="artwork/quince_at_fence_pikachu.jpg" width=30% height=30%>
-
+<br/><br/>
+<img src="artwork/IMG_2528_downsampled.jpg" width=40% height=40%>
+<img src="artwork/IMG_2528_hulk.jpg" width=40% height=40%>
 
 
 # Support My Artwork
